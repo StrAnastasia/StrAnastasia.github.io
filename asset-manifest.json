@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.af838576.css",
+    "main.js": "/react-gh-pages/static/js/main.07899166.js",
+    "static/media/space_1.png": "/react-gh-pages/static/media/space_1.4aab6891aa0154909619.png",
+    "static/media/space_5.png": "/react-gh-pages/static/media/space_5.9c5142955a5a971ab9ea.png",
+    "static/media/space_4.png": "/react-gh-pages/static/media/space_4.49688304a04a0bba7d09.png",
+    "static/media/space_2.png": "/react-gh-pages/static/media/space_2.91075a5f3419780e5e5f.png",
+    "static/media/Vectary texture.svg": "/react-gh-pages/static/media/Vectary texture.a4389852c90b9d43571cac86eea0e8ab.svg",
+    "static/media/space_3.png": "/react-gh-pages/static/media/space_3.7e3ed3c5c58839c1a3d6.png",
+    "static/media/EARTH.png": "/react-gh-pages/static/media/EARTH.126cc240c4e951b65f23.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.af838576.css.map": "/react-gh-pages/static/css/main.af838576.css.map",
+    "main.07899166.js.map": "/react-gh-pages/static/js/main.07899166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af838576.css",
+    "static/js/main.07899166.js"
+  ]
+}
