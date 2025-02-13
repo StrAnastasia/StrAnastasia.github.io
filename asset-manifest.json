@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a202cae.css",
-    "main.js": "/static/js/main.19ce1220.js",
-    "static/media/space_1.png": "/static/media/space_1.4aab6891aa0154909619.png",
-    "static/media/space_5.png": "/static/media/space_5.9c5142955a5a971ab9ea.png",
-    "static/media/space_4.png": "/static/media/space_4.49688304a04a0bba7d09.png",
-    "static/media/space_2.png": "/static/media/space_2.91075a5f3419780e5e5f.png",
+    "main.css": "/static/css/main.5690c640.css",
+    "main.js": "/static/js/main.bf93ffc5.js",
+    "static/media/space_1.png": "/static/media/space_1.c1919e04cf0559bb14c7.png",
     "static/media/Vectary texture.svg": "/static/media/Vectary texture.a4389852c90b9d43571cac86eea0e8ab.svg",
-    "static/media/space_3.png": "/static/media/space_3.7e3ed3c5c58839c1a3d6.png",
-    "static/media/EARTH.png": "/static/media/EARTH.126cc240c4e951b65f23.png",
+    "static/media/space_5.png": "/static/media/space_5.0c10993a63cb770cee2b.png",
+    "static/media/space_4.png": "/static/media/space_4.1139c3cffd4988543995.png",
+    "static/media/space_2.png": "/static/media/space_2.dacd96db090b5e2e04db.png",
+    "static/media/space_3.png": "/static/media/space_3.48d8d5d1f9b887b5cbbd.png",
+    "static/media/EARTH.png": "/static/media/EARTH.797264eb9b7c31235152.png",
     "index.html": "/index.html",
-    "main.8a202cae.css.map": "/static/css/main.8a202cae.css.map",
-    "main.19ce1220.js.map": "/static/js/main.19ce1220.js.map"
+    "main.5690c640.css.map": "/static/css/main.5690c640.css.map",
+    "main.bf93ffc5.js.map": "/static/js/main.bf93ffc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a202cae.css",
-    "static/js/main.19ce1220.js"
+    "static/css/main.5690c640.css",
+    "static/js/main.bf93ffc5.js"
   ]
 }
